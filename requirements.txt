@@ -1,0 +1,2 @@
+MLB-StatsAPI
+psycopg2-binary
